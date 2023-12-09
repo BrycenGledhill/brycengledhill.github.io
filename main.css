@@ -13,11 +13,7 @@ body {
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	font-weight: bold;
 }
-#nav {
-}
-#nav #nav_item {
-	width: auto;
-	display: block;
-}
-#nav #nav_item {
+.nav_item  {
+	display: inline;
+	padding-left: 5em;
 }
